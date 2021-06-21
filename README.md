@@ -36,7 +36,7 @@ The user should be able to:
 
 
 ## Deployed Link
-
+https://defy1x.github.io/c17-user-directory/
 
 
 #Usage
