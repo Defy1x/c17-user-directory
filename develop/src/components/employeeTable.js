@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import API from "../utils/API";
 import MaterialTable from 'material-table';
+import Icon from '@material-ui/core/Icon';
 
 class EmployeeTable extends Component {
     state = {

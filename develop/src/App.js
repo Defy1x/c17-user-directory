@@ -5,6 +5,7 @@ import EmployeeTable from './components/employeeTable';
 
 // material imports
 import Container from '@material-ui/core/Container';
+import Icon from '@material-ui/core/Icon';
 
 function App() {
     return (
